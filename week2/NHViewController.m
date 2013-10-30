@@ -7,6 +7,7 @@
 //
 
 #import "NHViewController.h"
+#import "NHTestViewController.h"
 
 @interface NHViewController ()
 
@@ -18,6 +19,15 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+}
+
+- (void) awakeFromNib {
+  
+}
+
+- (void) viewDidAppear:(BOOL)animated {
+  [super viewDidAppear:animated];
+
 }
 
 - (void)didReceiveMemoryWarning

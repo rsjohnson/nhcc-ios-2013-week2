@@ -22,6 +22,17 @@
 		94CC87C6181F135F00C92839 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94CC87A5181F135F00C92839 /* UIKit.framework */; };
 		94CC87CE181F135F00C92839 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 94CC87CC181F135F00C92839 /* InfoPlist.strings */; };
 		94CC87D0181F135F00C92839 /* week2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CC87CF181F135F00C92839 /* week2Tests.m */; };
+		94CC87DF181F145900C92839 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94CC87D9181F145900C92839 /* 6.jpg */; };
+		94CC87E0181F145900C92839 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94CC87DA181F145900C92839 /* 5.jpg */; };
+		94CC87E1181F145900C92839 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94CC87DB181F145900C92839 /* 4.jpg */; };
+		94CC87E2181F145900C92839 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94CC87DC181F145900C92839 /* 3.jpg */; };
+		94CC87E3181F145900C92839 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94CC87DD181F145900C92839 /* 2.jpg */; };
+		94CC87E4181F145900C92839 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94CC87DE181F145900C92839 /* 1.jpg */; };
+		94CC87E6181F147200C92839 /* students.plist in Resources */ = {isa = PBXBuildFile; fileRef = 94CC87E5181F147200C92839 /* students.plist */; };
+		94CC87E9181F156D00C92839 /* NHStudent.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CC87E8181F156D00C92839 /* NHStudent.m */; };
+		94CC8838181F386F00C92839 /* NHTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CC8836181F386F00C92839 /* NHTestViewController.m */; };
+		94CC883B181F3F8900C92839 /* SettingsStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94CC883A181F3F8900C92839 /* SettingsStoryboard.storyboard */; };
+		94CC8840181F433A00C92839 /* NHView.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CC883F181F433A00C92839 /* NHView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +66,20 @@
 		94CC87CB181F135F00C92839 /* week2Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "week2Tests-Info.plist"; sourceTree = "<group>"; };
 		94CC87CD181F135F00C92839 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		94CC87CF181F135F00C92839 /* week2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = week2Tests.m; sourceTree = "<group>"; };
+		94CC87D9181F145900C92839 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		94CC87DA181F145900C92839 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		94CC87DB181F145900C92839 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		94CC87DC181F145900C92839 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		94CC87DD181F145900C92839 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		94CC87DE181F145900C92839 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		94CC87E5181F147200C92839 /* students.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = students.plist; sourceTree = "<group>"; };
+		94CC87E7181F156D00C92839 /* NHStudent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NHStudent.h; sourceTree = "<group>"; };
+		94CC87E8181F156D00C92839 /* NHStudent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NHStudent.m; sourceTree = "<group>"; };
+		94CC8835181F386F00C92839 /* NHTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NHTestViewController.h; sourceTree = "<group>"; };
+		94CC8836181F386F00C92839 /* NHTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NHTestViewController.m; sourceTree = "<group>"; };
+		94CC883A181F3F8900C92839 /* SettingsStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = SettingsStoryboard.storyboard; sourceTree = "<group>"; };
+		94CC883E181F433A00C92839 /* NHView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NHView.h; sourceTree = "<group>"; };
+		94CC883F181F433A00C92839 /* NHView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NHView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +147,13 @@
 				94CC87BA181F135F00C92839 /* NHViewController.m */,
 				94CC87BC181F135F00C92839 /* Images.xcassets */,
 				94CC87A8181F135F00C92839 /* Supporting Files */,
+				94CC87E7181F156D00C92839 /* NHStudent.h */,
+				94CC87E8181F156D00C92839 /* NHStudent.m */,
+				94CC8835181F386F00C92839 /* NHTestViewController.h */,
+				94CC8836181F386F00C92839 /* NHTestViewController.m */,
+				94CC883A181F3F8900C92839 /* SettingsStoryboard.storyboard */,
+				94CC883E181F433A00C92839 /* NHView.h */,
+				94CC883F181F433A00C92839 /* NHView.m */,
 			);
 			path = week2;
 			sourceTree = "<group>";
@@ -129,10 +161,17 @@
 		94CC87A8181F135F00C92839 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				94CC87D9181F145900C92839 /* 6.jpg */,
+				94CC87DA181F145900C92839 /* 5.jpg */,
+				94CC87DB181F145900C92839 /* 4.jpg */,
+				94CC87DC181F145900C92839 /* 3.jpg */,
+				94CC87DD181F145900C92839 /* 2.jpg */,
+				94CC87DE181F145900C92839 /* 1.jpg */,
 				94CC87A9181F135F00C92839 /* week2-Info.plist */,
 				94CC87AA181F135F00C92839 /* InfoPlist.strings */,
 				94CC87AD181F135F00C92839 /* main.m */,
 				94CC87AF181F135F00C92839 /* week2-Prefix.pch */,
+				94CC87E5181F147200C92839 /* students.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -233,9 +272,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				94CC87B8181F135F00C92839 /* Main_iPad.storyboard in Resources */,
+				94CC87E1181F145900C92839 /* 4.jpg in Resources */,
 				94CC87BD181F135F00C92839 /* Images.xcassets in Resources */,
+				94CC87E3181F145900C92839 /* 2.jpg in Resources */,
+				94CC87E6181F147200C92839 /* students.plist in Resources */,
 				94CC87B5181F135F00C92839 /* Main_iPhone.storyboard in Resources */,
+				94CC883B181F3F8900C92839 /* SettingsStoryboard.storyboard in Resources */,
+				94CC87E0181F145900C92839 /* 5.jpg in Resources */,
 				94CC87AC181F135F00C92839 /* InfoPlist.strings in Resources */,
+				94CC87DF181F145900C92839 /* 6.jpg in Resources */,
+				94CC87E2181F145900C92839 /* 3.jpg in Resources */,
+				94CC87E4181F145900C92839 /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,7 +303,10 @@
 			files = (
 				94CC87BB181F135F00C92839 /* NHViewController.m in Sources */,
 				94CC87B2181F135F00C92839 /* NHAppDelegate.m in Sources */,
+				94CC8840181F433A00C92839 /* NHView.m in Sources */,
 				94CC87AE181F135F00C92839 /* main.m in Sources */,
+				94CC8838181F386F00C92839 /* NHTestViewController.m in Sources */,
+				94CC87E9181F156D00C92839 /* NHStudent.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -475,6 +525,7 @@
 				94CC87D5181F135F00C92839 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		94CC87D6181F135F00C92839 /* Build configuration list for PBXNativeTarget "week2Tests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +534,7 @@
 				94CC87D8181F135F00C92839 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
